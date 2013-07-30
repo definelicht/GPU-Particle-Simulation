@@ -4,6 +4,7 @@ ccobjects/
 nvccobjects/
 Matlab/
 Plots/
+Data/
 
 # Images
 *.png
