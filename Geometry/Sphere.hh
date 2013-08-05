@@ -24,7 +24,7 @@ static_assert(sizeof(SpherePars) == VOLUME_PARAMETER_SIZE,
 
 /**
  * Very simple geometric object to test inheritance and parameter
- * functionality. Might be nice to keep.
+ * functionality.
  */
 class Sphere : public Volume {
 
